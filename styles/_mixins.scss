@@ -1,0 +1,20 @@
+@mixin reset-link {
+  color: inherit;
+
+  &,
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+@mixin reset-button {
+  padding: 0;
+  background-color: transparent;
+  border: none;
+}
+
+@mixin flexible() {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
