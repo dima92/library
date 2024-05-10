@@ -434,14 +434,14 @@ a {
 
 .profile {
   display: block;
-  background-image: url(../../images/icon_profile.svg);
+  background-image: url(../images/icon_profile.svg);
   background-repeat: no-repeat;
   width: 28px;
   height: 28px;
 }
 
 .welcome {
-  background-image: url(../../images/welcome.png);
+  background-image: url(../images/welcome.png);
   background-repeat: no-repeat;
   background-position-x: center;
   background-color: #0c0c0e;
@@ -567,7 +567,7 @@ a {
   content: "";
   display: block;
   position: absolute;
-  background-image: url(../../images/circle.svg);
+  background-image: url(../images/circle.svg);
   width: 17px;
   height: 17px;
   top: 3px;
@@ -580,7 +580,7 @@ a {
   content: "";
   display: block;
   position: absolute;
-  background-image: url(../../images/circle_active.svg);
+  background-image: url(../images/circle_active.svg);
   width: 17px;
   height: 17px;
   top: 3px;
